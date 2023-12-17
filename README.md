@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Github.png)
+![MasterHead](https://github.com/NiveshKrishna17/Assets/blob/master/Images/Github.png)
 
 <h1 align="center">Hi there 👋, I'm Nivesh Krishna</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NiveshKrishna17&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
+  <img src="https://komarev.com/ghpvc/?username=NiveshKrishna17&label=Profile%20views&color=0e75b6&style=flat" alt="NiveshKrishna17" />
 </p>
 
 - *<h1>👨🏻‍🎓  Computer Science and Engineering Graduate</h1>*
@@ -104,11 +104,11 @@
 <h1 align="left">🏆  Contributes :</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-webdeveloper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NiveshKrishna17&show_icons=true&theme=dark&locale=en&layout=compact" alt="NiveshKrishna17" />
 </p>
 
 <h1 align="left">🔥   My Stats :</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-webdeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=NiveshKrishna17&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
