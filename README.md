@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=NiveshKrishna17&label=Profile%20views&color=0e75b6&style=flat" alt="NiveshKrishna17" />
 </p>
 
-- *<h1>👨🏻‍🎓  Computer Science and Engineering Graduate</h1>*
+- *<h1>👨🏻‍🎓  Computer Science and Engineering</h1>*
   
 - *<h2>🕸  MERN Stack Developer</h2>*
   
@@ -13,6 +13,8 @@
 
 
 *<h3 align="center">Connect Me On: </h3>*
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/nivesh-krishna-k17091999" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -20,41 +22,7 @@
   
 </div>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" alt="html5 logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" alt="css3 logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap logo"  />
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo"  />
-</div>
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react logo"  />
-</div>
-
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-</div>
-<br clear="both">
+<h3 align="left">Tools:</h3>
 
 <div align="center">
   <div>
@@ -67,8 +35,8 @@
   <br/>
   <div>
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-    <img width="55" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
+<!--     <img width="55" /> -->
+    
   </div>
 </div>
 
