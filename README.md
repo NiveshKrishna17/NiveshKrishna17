@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/NiveshKrishna17/Assets/blob/master/Images/Github.png)
+![MasterHead](https://github.com/NiveshKrishna17/assets/blob/main/LinkedIn.png)
 
 <h1 align="center">Hi there 👋, I'm Nivesh Krishna</h1>
 <p align="center">
